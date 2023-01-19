@@ -24,7 +24,7 @@ class AddressBook{
 
     }
 }
-
+//uc2
 var contact1=new AddressBook("charu","v","abc","xyz","Telangana",506164,8235263526,"charu@gmail.com");//contact1.printDetails();
 var contact2=new AddressBook("vishwa","s","def","uvw","hyd",500010,8265263524,"vishwa@gmail.com");//contact2.printDetails();
 var contact3=new AddressBook("riya","k","ghi","rst","tn",500106,8237526526,"riya@gmail.com");////contact3.printDetails();
